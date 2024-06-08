@@ -19,5 +19,6 @@ This is a utility API designed to extend common operations in Unity, offering a 
 
 ## Links:
 * **Purchase** （Coming soon）
+* **Document:** [https://github.com/SlashGame/Math-Helper.wiki.git](https://github.com/SlashGame/Math-Helper.wiki.git)
 * **Website:** [https://slashmaper.wixsite.com/website](https://slashmaper.wixsite.com/website)
 * **Email:** [slashmaper@gmail.com](slashmaper@gmail.com)

@@ -1,0 +1,16 @@
+digraph "C:/UserFiles/Unity/MiniGame/Get10/Minigame_Get10/Assets/Slash Pakage"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_a9061decffe88b292f613f649407a17f {
+    graph [ bgcolor="#f0f1f3", pencolor="grey50", label="Assets", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_a9061decffe88b292f613f649407a17f.html",tooltip=""]
+  subgraph clusterdir_8147f9ccebb154020827851f09e0a365 {
+    graph [ bgcolor="#f0f1f3", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_8147f9ccebb154020827851f09e0a365.html",tooltip=""]
+    dir_8147f9ccebb154020827851f09e0a365 [shape=plaintext, label="Slash Pakage"];
+  dir_8542ba8d108a0bd4193ba8ee82d72395 [label="MathHelper", fillcolor="#b3b9c6", color="grey25", style="filled", URL="dir_8542ba8d108a0bd4193ba8ee82d72395.html",tooltip=""];
+  }
+  }
+}

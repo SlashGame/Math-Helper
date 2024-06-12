@@ -1,0 +1,77 @@
+[OPTIONS]
+Compiled file=index.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Math Helper
+
+[WINDOWS]
+main="Math Helper","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+annotated.html
+class_math_helper_1_1_array_helper-members.html
+class_math_helper_1_1_array_helper.html
+class_math_helper_1_1_mathematics-members.html
+class_math_helper_1_1_mathematics.html
+class_math_helper_1_1_transform_helper-members.html
+class_math_helper_1_1_transform_helper.html
+class_math_helper_1_1_vector_helper-members.html
+class_math_helper_1_1_vector_helper.html
+classes.html
+dir_72d511b6cc8aaa97db2c1b7e2de32c49.html
+dir_8147f9ccebb154020827851f09e0a365.html
+dir_8542ba8d108a0bd4193ba8ee82d72395.html
+dir_87c9e2c05aaa351766bd8b01ee28055a.html
+dir_9bb2f078765da8a4bbb6bc6c0cfc1d73.html
+dir_a9061decffe88b292f613f649407a17f.html
+dir_d7be54b7ce6c94a07df831c677e73a48.html
+doxygen_crawl.html
+functions.html
+functions_func.html
+graph_legend.html
+index.html
+namespace_math_helper.html
+bc_s.png
+bc_sd.png
+closed.png
+dir_72d511b6cc8aaa97db2c1b7e2de32c49_dep.png
+dir_8147f9ccebb154020827851f09e0a365_dep.png
+dir_8542ba8d108a0bd4193ba8ee82d72395_dep.png
+dir_87c9e2c05aaa351766bd8b01ee28055a_dep.png
+dir_a9061decffe88b292f613f649407a17f_dep.png
+dir_d7be54b7ce6c94a07df831c677e73a48_dep.png
+doxygen.svg
+graph_legend.png
+minus.svg
+minusd.svg
+nav_f.png
+nav_fd.png
+nav_g.png
+nav_h.png
+nav_hd.png
+open.png
+plus.svg
+plusd.svg
+splitbar.png
+splitbard.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_ad.png
+tab_b.png
+tab_bd.png
+tab_h.png
+tab_hd.png
+tab_s.png
+tab_sd.png
+doxygen.css
+dynsections.js
+jquery.js
+navtree.css
+resize.js
+tabs.css

@@ -1,5 +1,5 @@
 # Math Helper
-Platform: Unity | Version: 2.1.0
+Platform: Unity | Version: 2.5.0
 
 ## Introduction
 This is a utility API designed to extend common operations in Unity, offering a range of frequently used functionalities aimed at simplifying developers' workflows and enhancing code efficiency.
